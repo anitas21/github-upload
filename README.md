@@ -10,6 +10,6 @@ A repository using tutorials:
 
 
 ----
-###Next tutorial from *The GitHub Training Team*
-####Create a release based workflow 
+### Next tutorial from *The GitHub Training Team*
+#### Create a release based workflow 
 * https://lab.github.com/githubtraining/create-a-release-based-workflow
