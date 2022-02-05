@@ -1,7 +1,6 @@
 
 ## README
 A repository created using tutorials:
-##Tutorials
 * [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 
 * [Junit5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
